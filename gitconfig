@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexandre.sena@live.fr
+	name = Alexandre Sena
